@@ -1,0 +1,7 @@
+group,predictor,disorder,binding
+AlphaFold2-disorder,AlphaFold2-plddt,TRUE,FALSE
+AlphaFold2-disorder,AlphaFold2-rsa,TRUE,FALSE
+AlphaFold3-disorder,AlphaFold3-plddt,TRUE,FALSE
+AlphaFold3-disorder,AlphaFold3-rsa,TRUE,FALSE
+AlphaFold2-disorder,AlphaFold2-binding,False,TRUE
+AlphaFold3-disorder,AlphaFold3-binding,False,TRUE

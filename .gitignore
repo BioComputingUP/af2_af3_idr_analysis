@@ -1,0 +1,10 @@
+venv
+data/AF2/structures/
+data/AF2/colab_fold/
+data/AF3/structures/
+figures_old
+src/logs
+src/superimpose.py
+src/old_figures.ipynb
+src/__pycache__
+src/vectorized_cls_metrics/__pycache__

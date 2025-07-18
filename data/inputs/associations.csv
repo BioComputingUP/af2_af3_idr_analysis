@@ -1,0 +1,7 @@
+Method,disorder,binding,linker
+AlphaFold2-rsa,1,0,0
+AlphaFold2-plddt,1,0,0
+AlphaFold3-rsa,1,0,0
+AlphaFold3-plddt,1,0,0
+AlphaFold2-binding,0,1,0
+AlphaFold3-binding,0,1,0

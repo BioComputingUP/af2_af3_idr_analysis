@@ -1,0 +1,5 @@
+,fn,fp,tn,tp
+AlphaFold2-rsa,5297,3334,64504,26104
+AlphaFold2-plddt,6602,4100,63738,24799
+AlphaFold3-plddt,6213,4755,63083,25188
+AlphaFold3-rsa,5364,3476,64362,26037
