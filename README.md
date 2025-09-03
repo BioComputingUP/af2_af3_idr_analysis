@@ -31,7 +31,7 @@ where 1 indicates disorder label, 0 indicates order label, and - indicates resid
 
 ### 2. Obtain AlphaFold2 structures
 
-The AlphaFold2 structures used for this paper is avaialable at `biocomputingup.it/shared/af2_af3_idr_analysis/` and could be obtained by: 
+The AlphaFold2 structures used for this paper is avaialable at [https://biocomputingup.it/shared/af2_af3_idr_analysis](https://biocomputingup.it/shared/af2_af3_idr_analysis/) and could be obtained by: 
 
     mkdir -p <output_dir>/AF2/
     cd <output_dir>/AF2/
@@ -59,7 +59,7 @@ To generate ColabFold structures for structures that were not found in AlphaFold
 
 
 ## Obtain AlphaFold3 structures
-AlphaFold3 stuctures were manually downloaded from https://alphafoldserver.com for sequences in Disrder-PDB dataset. The mmCIF files were saved in `<output_dir>/AF3/structures`. We are sharing the AlphaFold3 structures that we downloaded for Disorder-PDB dataset available at `https://biocomputingup.it/shared/af2_af3_idr_analysis` in accordance with [AlphaFold Server Terms of Service](https://alphafoldserver.com/terms), subjected to to [AlphaFold Server Output Terms of Use](https://alphafoldserver.com/output-terms). 
+AlphaFold3 stuctures were manually downloaded from https://alphafoldserver.com for sequences in Disrder-PDB dataset. The mmCIF files were saved in `<output_dir>/AF3/structures`. We are sharing the AlphaFold3 structures that we downloaded for Disorder-PDB dataset available at [https://biocomputingup.it/shared/af2_af3_idr_analysis](https://biocomputingup.it/shared/af2_af3_idr_analysis) in accordance with [AlphaFold Server Terms of Service](https://alphafoldserver.com/terms), subjected to to [AlphaFold Server Output Terms of Use](https://alphafoldserver.com/output-terms). 
 
     mkdir -p <output_dir>/AF3/
     cd <output_dir>/AF3/
